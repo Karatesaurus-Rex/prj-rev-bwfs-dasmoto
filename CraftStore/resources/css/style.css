@@ -1,0 +1,31 @@
+.price {
+  font-family: helvetica;
+  color: blue;
+  font-weight: bold;
+}
+h1 {
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("../pattern.jpg");
+}
+h2 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.bg1 {
+  background-color: mediumspringgreen;
+}
+.bg2 {
+  background-color: lightcoral;
+}
+.bg3 {
+  background-color: skyblue;
+}
+p {
+  font-family: helvetica;
+}
